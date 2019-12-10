@@ -1,7 +1,7 @@
 # EasyCoumpoundButtonGroup
 [![](https://jitpack.io/v/avisper/EasyCompoundButtonGroup.svg)](https://jitpack.io/#avisper/EasyCompoundButtonGroup)
 
-:vertical_traffic_light: EasyCoumpoundButtonGroup provide solution for CompoundButtons in group, and behave like a RadioGroup.
+:vertical_traffic_light: **EasyCoumpoundButtonGroup** provide solution for CompoundButtons in group, and behave like a RadioGroup.
 
 
 * **MixedCompoundButtonGroup** - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton

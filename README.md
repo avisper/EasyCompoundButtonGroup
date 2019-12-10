@@ -23,6 +23,7 @@ build.gradle (app)
 ```
 dependencies {
     ...
+    
     // EasyCompoundButtonGroup
     implementation 'com.github.avisper:EasyCompoundButtonGroup:1.0.0'
 }

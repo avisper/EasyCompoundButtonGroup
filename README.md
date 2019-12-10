@@ -4,8 +4,8 @@
 :vertical_traffic_light: EasyCoumpoundButtonGroup provide solution for CompoundButtons in group, and behave like a RadioGroup.
 
 
-* [MixedCompoundButtonGroup] - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
-* [MultiRowsRadioGroup] -  MultiRowsRadioGroup is a RadioGroups container with different columns or rows
+* **MixedCompoundButtonGroup** - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
+* **MultiRowsRadioGroup** -  MultiRowsRadioGroup is a RadioGroups container with different columns or rows
 
 
 ### Installing - Gradle setup

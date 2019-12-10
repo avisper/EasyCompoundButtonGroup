@@ -1,2 +1,2 @@
-include ':app', ':easycoumpoundbuttongroup'
+include ':app', ':easycompoundbuttongroup'
 rootProject.name='CompoundButtonGroup'

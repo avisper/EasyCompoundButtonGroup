@@ -8,4 +8,27 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <!-- Base RadioButton theme. -->
+    <style name="CustomRadioButtonCommon" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="CustomRadioButton1" parent="CustomRadioButtonCommon">
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/bg_radiogroup</item>
+    </style>
+
+    <style name="CustomRadioButton2" parent="CustomRadioButtonCommon">
+        <!--TO-DO-->
+    </style>
+
+    <style name="CustomRadioButton3" parent="CustomRadioButtonCommon">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+
 </resources>

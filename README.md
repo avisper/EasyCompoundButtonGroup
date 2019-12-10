@@ -1,7 +1,7 @@
 # EasyCoumpoundButtonGroup
 [![](https://jitpack.io/v/avisper/EasyCompoundButtonGroup.svg)](https://jitpack.io/#avisper/EasyCompoundButtonGroup)
 
-:vertical_traffic_light: EasyCoumpoundButtonGroup provide solution for CompoundButtons in group, and behave like RadioGroup.
+:vertical_traffic_light: EasyCoumpoundButtonGroup provide solution for CompoundButtons in group, and behave like a RadioGroup.
 
 
 ### Installing - Gradle setup

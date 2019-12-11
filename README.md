@@ -30,7 +30,10 @@ dependencies {
 }
 ```
 
-## Step 1
+
+## Getting started
+
+### Step 1
 Add MultiRowsRadioGroup to your layout with content you want.
 pay attention - if you want RadioButtons, even only one, you sould add RadioGroup to the content.
 ```

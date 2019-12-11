@@ -6,7 +6,7 @@
 :vertical_traffic_light: **EasyCoumpoundButtonGroup** provide solution for CompoundButtons in group, and behave like a RadioGroup. It resolve the one and only selected button in CompoundButton (CheckBox, RadioButton, Switch, ToggleButton) group
 
 
-* **MixedCompoundButtonGroup** - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
+* [**MixedCompoundButtonGroup**](#MixedCompoundButtonGroup) - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
 * [**MultiRowsRadioGroup**](#MultiRowsRadioGroup) - MultiRowsRadioGroup is a RadioGroups container with different columns or rows
 
 
@@ -35,6 +35,23 @@ dependencies {
     implementation 'com.github.avisper:EasyCompoundButtonGroup:1.0.0'
 }
 ```
+
+
+
+### MixedCompoundButtonGroup
+#### Step 1
+Add MixedCompoundButtonGroup to your layout with content you want.
+
+```
+
+```
+
+#### Step 2
+set OnCheckedChangeListener to  MixedCompoundButtonGroup
+```
+
+```
+
 
 
 ### MultiRowsRadioGroup

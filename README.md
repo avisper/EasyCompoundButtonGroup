@@ -6,7 +6,7 @@
 
 * **MixedCompoundButtonGroup** - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
 * **MultiRowsRadioGroup** -  MultiRowsRadioGroup is a RadioGroups container with different columns or rows
-
+* [**MultiRowsRadioGroup**](#MultiRowsRadioGroup)
 
 ## Installing - Gradle setup
 
@@ -34,6 +34,7 @@ dependencies {
 
 ## Getting started
 
+## MultiRowsRadioGroup
 ### Step 1
 Add MultiRowsRadioGroup to your layout with content you want.
 pay attention - if you want RadioButtons, even only one, you sould add RadioGroup to the content.

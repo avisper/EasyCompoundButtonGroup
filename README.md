@@ -7,7 +7,11 @@
 * **MixedCompoundButtonGroup** - MixedCompoundButtonGroup is a ConstraintLayout with kinds of CompoundButton
 * [**MultiRowsRadioGroup**](#MultiRowsRadioGroup) - MultiRowsRadioGroup is a RadioGroups container with different columns or rows
 
-## Installing - Gradle setup
+
+
+## Getting started
+
+### Installing - Gradle setup
 
 #### build.gradle (Project)
 ```
@@ -30,8 +34,6 @@ dependencies {
 }
 ```
 
-
-## Getting started
 
 ### MultiRowsRadioGroup
 #### Step 1

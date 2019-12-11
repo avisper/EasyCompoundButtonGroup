@@ -89,8 +89,9 @@ pay attention - if you want RadioButtons, even only one, you sould add RadioGrou
 </com.avisper.multirowsradiogroup.MultiRowsRadioGroup>
 ```
 
-### Step 2 + 3
+### Step 2
 find the MultiRowsRadioGroup in your view - Activity, Fragment, etc.
+
 set OnCheckedChangeListener to  MultiRowsRadioGroup
 ```
 multiRowsRadioGroup = findViewById(R.id.multiRowsRadioGroup_container)

@@ -8,9 +8,9 @@
 * **MultiRowsRadioGroup** -  MultiRowsRadioGroup is a RadioGroups container with different columns or rows
 
 
-### Installing - Gradle setup
+## Installing - Gradle setup
 
-build.gradle (Project)
+### build.gradle (Project)
 ```
 allprojects {
     repositories {
@@ -20,7 +20,8 @@ allprojects {
     }
 }
 ```
-build.gradle (app)
+
+### build.gradle (app)
 ```
 dependencies {
     ...
@@ -88,20 +89,14 @@ pay attention - if you want RadioButtons, even only one, you sould add RadioGrou
 </com.avisper.multirowsradiogroup.MultiRowsRadioGroup>
 ```
 
-### Step 2
+### Step 2 + 3
 find the MultiRowsRadioGroup in your view - Activity, Fragment, etc.
-```
-multiRowsRadioGroup = findViewById(R.id.multiRowsRadioGroup_container)
-```
-
-
-### Step 3
 set OnCheckedChangeListener to  MultiRowsRadioGroup
 ```
- multiRowsRadioGroup.setOnCheckedChangeListener(object : OnCheckedChangeListener {
+multiRowsRadioGroup = findViewById(R.id.multiRowsRadioGroup_container)
+multiRowsRadioGroup.setOnCheckedChangeListener(object : OnCheckedChangeListener {
             override fun onCheckedChanged(group: RadioGroup, checkedId: Int) {
                 Toast.makeText(applicationContext, "groupId = ${group.id}\ncheckedId = $checkedId", Toast.LENGTH_SHORT).show()
             }
 })
 ```
-

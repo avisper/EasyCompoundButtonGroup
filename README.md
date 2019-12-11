@@ -1,5 +1,7 @@
-# EasyCoumpoundButtonGroup
 [![](https://jitpack.io/v/avisper/EasyCompoundButtonGroup.svg)](https://jitpack.io/#avisper/EasyCompoundButtonGroup)
+
+
+# EasyCoumpoundButtonGroup
 
 :vertical_traffic_light: **EasyCoumpoundButtonGroup** provide solution for CompoundButtons in group, and behave like a RadioGroup. It resolve the one and only selected button in CompoundButton (CheckBox, RadioButton, Switch, ToggleButton) group
 

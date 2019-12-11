@@ -91,8 +91,6 @@ pay attention - if you want RadioButtons, even only one, you sould add RadioGrou
 ```
 
 #### Step 2
-find the MultiRowsRadioGroup in your view - Activity, Fragment, etc.
-
 set OnCheckedChangeListener to  MultiRowsRadioGroup
 ```
 multiRowsRadioGroup = findViewById(R.id.multiRowsRadioGroup_container)

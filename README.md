@@ -10,7 +10,7 @@
 * [**MultiRowsRadioGroup**](#MultiRowsRadioGroup) - MultiRowsRadioGroup is a RadioGroups container with different columns or rows
 
 
-
+<!-- GETTING STARTED -->
 ## Getting started
 
 ### Installing - Gradle setup
@@ -120,3 +120,10 @@ multiRowsRadioGroup.setOnCheckedChangeListener(object : OnCheckedChangeListener 
             }
 })
 ```
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Android CompoundButton](https://developer.android.com/reference/android/widget/CompoundButton)
+* [Android Checkable](https://developer.android.com/reference/android/widget/Checkable.html)

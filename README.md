@@ -34,8 +34,8 @@ dependencies {
 
 ## Getting started
 
-## MultiRowsRadioGroup
-### Step 1
+### MultiRowsRadioGroup
+#### Step 1
 Add MultiRowsRadioGroup to your layout with content you want.
 pay attention - if you want RadioButtons, even only one, you sould add RadioGroup to the content.
 ```
@@ -90,7 +90,7 @@ pay attention - if you want RadioButtons, even only one, you sould add RadioGrou
 </com.avisper.multirowsradiogroup.MultiRowsRadioGroup>
 ```
 
-### Step 2
+#### Step 2
 find the MultiRowsRadioGroup in your view - Activity, Fragment, etc.
 
 set OnCheckedChangeListener to  MultiRowsRadioGroup
